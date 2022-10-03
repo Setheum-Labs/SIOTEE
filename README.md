@@ -1,3 +1,5 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 # SIOTEE - Setheum IoT in TEE(Trusted Execution Environment)
 
 Powering Ethical Web3 IoT Solutions.
