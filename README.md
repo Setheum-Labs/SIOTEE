@@ -17,3 +17,6 @@ SIOTEE is Setheum's Layer-2 IoT blockchain protocol for building highly scalable
 - IoT Communications, ie. Machine-to-Machine Oracles, Weather Sharing Protocols, Commercial On-Demand Satellites for Weather Prediction Data Sharing, Swarm Vending Machine Data Collection and Payments.
 - IoT WiFi and VPN Access, ie. Sharing secure on-demand network access points for broadband and VPN to earn passive income.
 - Smart Contracts.
+
+## LICENSE
+The primary license for SIOTEE is the GPL3, see [LICENSE](https://github.com/Setheum-Labs/SIOTEE/blob/main/LICENSE.md).
